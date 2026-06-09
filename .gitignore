@@ -9,3 +9,11 @@ desktop.ini
 /node_modules/
 /yarn.lock
 CLAUDE.md
+
+# Markdown files local-only (except README)
+*.md
+!README.md
+
+# Markdown files local-only (except README)
+*.md
+!README.md
